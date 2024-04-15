@@ -11,46 +11,17 @@ function Experience() {
       <div className='container experience__container'>
 
         <div data-aos="zoom-in" data-aos-duration="1500" className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <a href="https://www.riseretail.net/"><h3>Rise Retail & Payment Solutions Pvt Ltd</h3></a>
+          <h4>Full Stack Developer</h4>
           <div className="blur blur-e"></div>
-          <div className="experience__content">
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>HTML5</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>CSS3</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>JavaScript</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>React</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div><h4>React-Redux</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div><h4>Material Ui</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-          </div>
+          <small className='text-light'>
+            • Implemented coupon redemption and appointment booking functionalities..<br></br>
+            • Enabled location-based search and favorite shop creation. Implemented real-time chat for staff-customer communication..<br></br>
+            • Developed Rise Retail Consumer Platform, listing registered shops for easy consumer access, akin to Justdial..<br></br>
+            • Additionally, each shop was provided with a personalized website exclusively dedicated to their own shop, enhancing their online presence.<br></br>
+            • Technologies Used: PHP, HTML, CSS, JavaScript, Bootstrap, MYSQL.
+          </small>
+              
         </div>
 
 
@@ -59,47 +30,16 @@ function Experience() {
 
 
         <div data-aos="zoom-in" data-aos-duration="1500" className="experience__backend">
-          <h3>Backend Development</h3>
+        <a href="https://www.riseretail.net/"><h3>Annapurna Mess</h3></a>
+          <h4>Full Stack Developer(Freelancer)</h4>
           <div className="blur blur-e2"></div>
-
-          <div className="experience__content">
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>Java</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>Hibernate</h4>
-                <small className='text-light'>Advanced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div><h4>Spring Boot</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>NodeJs</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>SQL Databases</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>MongoDB</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-          </div>
+          <small className='text-light'>
+            • Develop a web Platform for mess where he can manage his mess customer
+            and his records his attendance history a another platform for customer to
+            mark there attendance by scanning QR code.<br></br>
+            • Technologies Used: PHP, HTML, CSS, JavaScript, Bootstrap, MYSQL.<br></br>
+            • <a href="https://github.com/abhishekhajare6399/Annapurna-Mess">Github Link: abhishekhajare6399/Annapurna-Mess</a>
+          </small>
 
         </div>
 

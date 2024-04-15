@@ -33,11 +33,13 @@ const About = () => {
             <div className="blur blur-a"></div>
 
             <span data-aos="zoom-in" data-aos-duration="1500">
+            <a href="#experience" style={{ color: "white" }}>
               <article className="about__card">
                 <FaAward className='about-icon' />
                 <h5>Experience</h5>
                 <small> Fresher </small>
               </article>
+              </a>
             </span>
 
             <span data-aos="zoom-in" data-aos-duration="1500">
@@ -45,7 +47,7 @@ const About = () => {
                 <article className="about__card">
                   <GiGraduateCap className='about-icon' />
                   <h5>Education</h5>
-                  <small> Master's Degree In Computer Science </small>
+                  <small> Graduation Degree In Computer Science </small>
                 </article>
               </a>
             </span>

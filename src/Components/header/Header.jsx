@@ -10,7 +10,7 @@ function Header() {
       <div className=" header__container">
         <h5 style={{ letterSpacing: "1px" }}>Hello I'm</h5>
         <div className="blur blur-h"></div>
-        <h1 className="name"> Viraj Hole </h1>
+        <h1 className="name"> Abhishek Shirish Hajare </h1>
         <h4 className="profile">Full Stack Web Developer</h4>
 
         <span className="ideas">
