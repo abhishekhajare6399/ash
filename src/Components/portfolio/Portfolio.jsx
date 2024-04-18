@@ -20,7 +20,7 @@ function Portfolio() {
     },
     {
       id: 2,
-      image: IMG1,
+      image: IMG7,
       title: "Foodies - Order Foood Now",
       github: "https://github.com/abhishekhajare6399/Foodies",
     },
